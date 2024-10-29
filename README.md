@@ -24,7 +24,7 @@ const Damien = {
         backEnd: {
             js: ["node", "express"],
             python: ["flask", "playwright"]
-        }
+        },
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "Scrapy Playwright", "Pytorch"]
     },
