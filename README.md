@@ -16,7 +16,7 @@ const Damien = {
     code: ["Javascript", "Typescript", "Python", "Java", "SQL", "c++"],
     askMeAbout: ["web dev", "tech", "ai", "rugby"],
     technologies: {
-        machine learning: ["Python"],
+        machine_learning: ["Python"],
         frontEnd: {
             js: ["Vite", "Next"],
             css: ["tailwind", "bootstrap"]
